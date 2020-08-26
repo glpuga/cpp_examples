@@ -3,9 +3,9 @@
 
 # Intro
 
-Collection of examples to show to CPP padawans within Ekumen when discussing different language topics.
+Collection of examples of a variety of C++1X features for use in introductory courses.
 
-# Topics to be covered
+# Topics
 
 * Types and values. Integral types, aggregate types (struct, class). Unions.
 * Object data types. Class vs Intances members. Encapsulation. Public, protected, private sections.
