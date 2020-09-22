@@ -51,7 +51,7 @@ class Object {
 };
 
 int main() {
-  cout << "For this exmaple, build with and without -fno-elide-constructors" << endl;
+  cout << "For this example, build with and without -fno-elide-constructors" << endl;
 
   cout << endl;
   cout << "Creation of objects objects" << endl;
