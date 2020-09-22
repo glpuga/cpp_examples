@@ -74,7 +74,7 @@ int main() {
   AB = A + B;
 
   cout << endl;
-  cout << "Quadrulple summation, can you follow what's going on?" << endl;
+  cout << "Quadruple summation, can you follow what's going on?" << endl;
   Object ABCD;
   ABCD = A + B + C + D;
 
