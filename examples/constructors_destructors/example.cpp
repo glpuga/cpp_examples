@@ -93,7 +93,7 @@ int main() {
   Complex1 c1_i = {2, 3};
 
   std::cout << std::endl;
-  std::cout << "Complex2 has not explicit constructors, so implicit conversions fail to build" << std::endl;
+  std::cout << "Complex2 has explicit constructors, so implicit conversions fail to build" << std::endl;
   Complex2 c2_a{};
   Complex2 c2_c{2, 3};
   Complex2 c2_d = Complex2{};
